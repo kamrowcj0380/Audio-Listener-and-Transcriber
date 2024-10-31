@@ -1,0 +1,4 @@
+virtual_env/
+.vscode/
+db.sqlite3
+.env
